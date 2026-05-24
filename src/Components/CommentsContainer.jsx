@@ -4,81 +4,81 @@ import CommentList from "./CommentList";
 
 const commentData = [
 	{
-		name: "Akshay Saini",
+		name: "Prabhdeep Singh",
 		text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 		replies: [
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [],
 			},
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [],
 			},
 		],
 	},
 	{
-		name: "Akshay Saini",
+		name: "Prabhdeep Singh",
 		text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 		replies: [
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [
 					{
-						name: "Akshay Saini",
+						name: "Prabhdeep Singh",
 						text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 						replies: [
 							{
-								name: "Akshay Saini",
+								name: "Prabhdeep Singh",
 								text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 								replies: [
 									{
-										name: "Akshay Saini",
+										name: "Prabhdeep Singh",
 										text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 										replies: [],
 									},
 								],
 							},
 							{
-								name: "Akshay Saini",
+								name: "Prabhdeep Singh",
 								text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 								replies: [],
 							},
 						],
 					},
 					{
-						name: "Akshay Saini",
+						name: "Prabhdeep Singh",
 						text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 						replies: [],
 					},
 				],
 			},
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [],
 			},
 		],
 	},
 	{
-		name: "Akshay Saini",
+		name: "Prabhdeep Singh",
 		text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 		replies: [],
 	},
 	{
-		name: "Akshay Saini",
+		name: "Prabhdeep Singh",
 		text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 		replies: [
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [],
 			},
 			{
-				name: "Akshay Saini",
+				name: "Prabhdeep Singh",
 				text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, vel?",
 				replies: [],
 			},

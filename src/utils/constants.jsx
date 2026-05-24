@@ -3,7 +3,7 @@ export const YOUTUBE_VIDEOS_API =
 	import.meta.env.VITE_YT_API_KEY;
 
 export const YOUTUBE_SEARCH_API =
-	"https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+	"https://yt-search-suggestion-api.vercel.app/search_suggestion/";
 
 export const LIVE_CHAT_COUNT = 50;
 
